@@ -46,13 +46,14 @@ The Restaurant Ordering and Reservation Management System is designed to manage 
 
 This project implements custom-built data structures instead of relying on the built-in collection classes from "System.Collections.Generic".
 
-Data Structure | Purpose
-MyList | Stores and manages collections of data.
-MyStack | Implements Last-In, First-Out (LIFO).
-MyQueue | Implements First-In, First-Out (FIFO).
-MyPriorityQueue | Processes elements according to priority.
-MySet | Stores unique elements.
-MyMap | Organizes data using key-value pairs.
+| Data Structure | Purpose |
+| --- | --- |
+| MyList | Stores and manages collections of data. |
+| MyStack | Implements Last-In, First-Out (LIFO). |
+| MyQueue | Implements First-In, First-Out (FIFO). |
+| MyPriorityQueue | Processes elements according to priority. |
+| MySet | Stores unique elements. |
+| MyMap | Organizes data using key-value pairs. |
 
 ## Data Storage
 
@@ -66,17 +67,21 @@ This allows stored information to remain available after the program is closed.
 
 ## Development Status
 
-### Status: Under Development
+**Status: Under Development**
 
 NOTE: New features, improvements, and system refinements are being implemented throughout the development process.
 
 ## Developers
 
-Justine Roy M. Sacman
-Clarissa Marie G. Banquil
-Jhannah Lou E. Dagpin
-Clarisse M. Cantomayor
-Sophia Ericka P. Aspe
-Sophia Loren J. Cabaya
+**Leader**
+- Justine Roy M. Sacman
 
-Bachelor of Science in Information Technology (BSIT)
+**Members**
+- Clarissa Marie G. Banquil
+- Jhannah Lou E. Dagpin
+- Clarisse M. Cantomayor
+- Sophia Ericka P. Aspe
+- Sophia Loren J. Cabaya
+
+**Program**
+- Bachelor of Science in Information Technology (BSIT)
